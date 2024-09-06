@@ -1,4 +1,4 @@
-## Leia-me: Busca Rápida de Atletas!
+## Leia-me: Busca Rápida de Atletas - Imersão Dev com Google Gemini
 
 **O que faz essa aplicação?**
 
@@ -33,3 +33,5 @@ Se você é um desenvolvedor e quer ajudar a melhorar essa aplicação, fique à
 * **Funcionalidades futuras:** Temos muitas ideias para melhorar essa aplicação, como adicionar filtros, ordenar os resultados e até mesmo criar um modo escuro!
 
 **Vamos juntos criar a melhor ferramenta para os amantes de esportes!**
+
+Este texto foi criado pelo Google Gemini, a partir do código-fonte em HTML e Javascript.
